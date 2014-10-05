@@ -1,7 +1,7 @@
 {
   "name": "path-to-regexp",
   "main": "pathtoregexp.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/goliatone/path-to-regexp",
   "authors": [
     "goliatone <hello@goliatone.com>"

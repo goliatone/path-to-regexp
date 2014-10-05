@@ -200,7 +200,6 @@
         return attachKeys(new RegExp('^' + path + (end ? '$' : ''), flags), keys);
     };
 
-    console.warn('HERE MOFO')
     /**
      * Expose `pathtoRegexp`.
      */
